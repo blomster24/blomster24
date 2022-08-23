@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Luis Miguel Florez
-🌱 I’m currently learning Java
+<h1 align₧"center">🌱 I’m currently learning Java</h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=blomster24&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="blomster24's GitHub Stats">
 
